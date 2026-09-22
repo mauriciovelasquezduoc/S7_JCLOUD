@@ -1,4 +1,4 @@
-# Paso a paso: Docker y Spring Boot (scripts llegar y copiar)
+# Paso a paso: Docker y Spring Boot 
 
 JVY0101 - Java: Diseño y Construcción de Soluciones Nativas en Nube
 Guía 2.3.2 - Experiencia de Aprendizaje EA2 - Indicador IL2.3
