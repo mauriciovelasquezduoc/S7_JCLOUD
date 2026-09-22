@@ -138,6 +138,13 @@ cd C:\ruta\al\codigoBase
 .\mvnw.cmd spring-boot:run
 ```
 
+Linux
+```
+./mvnw spring-boot:run
+```
+
+
+
 > Al iniciar, Maven descarga las dependencias, compila y levanta Tomcat en el
 > puerto `8180`. En los logs verás algo como
 > `Tomcat started on port 8180 (http)`. Al iniciar la aplicación se crean las
